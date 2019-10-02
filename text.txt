@@ -1,0 +1,75 @@
+Dear *Dr. {name}*,
+
+My name is Joel Joseph and I am currently in my junior year at the *Indian
+Institute of Technology, Varanasi* India. I am also an undergraduate
+researcher at the *Robotics Research Center* at my college.
+
+
+I am hoping for the possibility of doing a *Research Internship* under your
+guidance during the *summer of 2020* in order to gain experience in the
+field of *Computer Vision* and help extend the state of the art.
+
+
+As a Computer Vision and Robotics enthusiast, I have worked on various
+projects based on Deep Learning, Image Processing and IoT. My ongoing work
+at IIT Varanasi with Dr. Hariprabhat Gupta
+<https://sites.google.com/site/hprabhatgupta/home> involves making Computer
+Vision Systems for Autonomous Underwater Vehicles. The team cleared the
+first two rounds of *SAVe (Student AUV Competition) 2019* at NIOT Madras.
+Apart from that, I was a part of the team which got selected for the *Stude=
+nt
+Design Competition held at the ACM/IEEE Conference held at California for
+building an autonomous voice controlled wheelchair* (Paper
+<https://drive.google.com/file/d/1Yz_HJX_NBeCua_TdEA2wiVtxrSqzi-1n/view?usp=
+=3Dsharing>).
+I have also worked on designing and fabrication of a mind-controlled bionic
+arm which is now able to replicate up to six different human hand motions
+robustly (Report
+<https://drive.google.com/file/d/1qJsMmV2c6lBgH_x_exNYfi8vmoVyx0UY/view?usp=
+=3Dsharing>
+, Video
+<https://drive.google.com/drive/folders/1v7CtJHJ51Zo22X3yqgIJ-3eBY8tkrZnF?u=
+sp=3Dsharing>
+). *My project of the Bionic Arm is incubated at the Cisco IoT Lab at
+IIT-BHU. I am also hoping to publish my work at IIIT-Hyderabad at a
+workshop at CVPR.*
+
+I also love reading and implementing interesting research papers in Deep
+Learning and Artificial Intelligence. I have designed and implemented an
+innovative image enhancement architecture for colour (RGB) images using the
+concept of *Deep Autoencoders*. Github
+<https://github.com/joeljosephjin/llnet_implementation>
+
+I am an ardent believer of =E2=80=98learn by doing=E2=80=99 which led me to=
+ pick up
+projects one after another since my freshman year. Eventually, I discovered
+my passion for solving practical problems using technology.
+
+I came across your work in the field of Computer Vision which I really
+enjoyed reading and discussing with my peers here. Apart from that, I have
+read some of your leading work and am really intrigued by your
+publications. I hope to contribute to your projects, through my experiences
+at the Robotics Club as well as from working on a wide array of projects.
+
+I am considering to apply for a Ph.D. in this domain. An exceptional
+research project at this stage would augment my grasp of this domain and
+become a milestone in my career.
+
+I would love to know if your lab has any openings for undergraduate
+students in the duration of *May - Aug 2020*. Kindly consider my
+application for a research internship during the said period under your
+able guidance.
+
+Please find attached, my Resume and my Github profile, Academic
+References/Recommendations can be provided if needed.
+
+Resume
+<https://drive.google.com/file/d/1FagzKDZ3suWR-vmEVGiGPZ04cZ3kw3Td/view?usp=
+=3Dsharing>
+Github <http://github.com/joeljosephjin>
+
+
+Sincerely,
+Joel Joseph
+Junior Undergraduate
+IIT BHU(Indian Institute Of Technology(Banaras Hindu University), Varanasi
